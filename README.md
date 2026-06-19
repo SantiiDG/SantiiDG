@@ -26,12 +26,6 @@ I am a software developer with an analytical approach to data processing and a p
 - **Advanced Data Processing:** Developing efficient data clustering and frequency counting algorithms in **Python** using complex data structures.
 - **Agile & Team Collaboration:** Proficient in **GitFlow**, structured branching, and enforcing code quality through rigorous **Pull Requests** and code reviews.
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiiDG&show_icons=true&theme=radical&hide_border=true" alt="Santi's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiiDG&layout=compact&theme=radical&hide_border=true" alt="Santi's Top Languages" />
-</div>
-
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-diestro-b6428116a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santi18diestro@gmail.com)
