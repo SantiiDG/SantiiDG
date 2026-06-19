@@ -26,6 +26,10 @@ I am a software developer with an analytical approach to data processing and a p
 - **Advanced Data Processing:** Developing efficient data clustering and frequency counting algorithms in **Python** using complex data structures.
 - **Agile & Team Collaboration:** Proficient in **GitFlow**, structured branching, and enforcing code quality through rigorous **Pull Requests** and code reviews.
 
+## 💻 Featured Projects
+* **[PetClinic SaaS Showcase](https://github.com/SantiiDG/petclinic-showcase)** - A modernized veterinary clinic platform built with React and Spring Boot. Features role-based Spring Security (JWT), automated adoption SLA management, and containerized Docker services deployed on Google App Engine.
+* **[DeliverUS RESTful API Showcase](https://github.com/SantiiDG/deliverus-showcase)** - A secure multi-tenant food delivery backend API built with Node.js, Express, and Sequelize ORM mapping MariaDB. Focuses on security implementation including input schema validation, Helmet headers, and query parameterization to fully mitigate SQL injections.
+
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-diestro-b6428116a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santi18diestro@gmail.com)
