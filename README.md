@@ -25,11 +25,11 @@ I am a software developer with a strong analytical mindset, specializing in buil
 
 ## 🚀 Key Competencies & Engineering Workflow
 
-*   **🔒 Backend Security & Sanitation:** Heavy focus on defense-in-depth principles. Experienced in configuring **Helmet security headers**, implementing input sanitization pipelines via **Express-Validator**, and eliminating SQL Injection vectors through **Sequelize query parameterization** and JPA mappings.
-*   **📐 Architectural Patterns:** Designing clean RESTful APIs with decoupled controllers, routes, and service layers (MVC, Service-Repository pattern), modernizing legacy monolithic structures into modular Single Page Application (SPA) backends.
-*   **🛡️ QA & Quality Gates (CI/CD):** Enforcing strict static code analysis via **SonarQube** (achieving **0 bugs, 0 vulnerabilities, 0 code smells** and **95%+ test coverage**), automated linter integrations, and GitFlow-based branch validation workflows.
-*   **📊 SLA & ITSM Management:** Experience defining commercial SLAs, setting incident response/fulfillment matrices (TTO/TTR targets), calculating service credits, and managing ticket lifecycles using ITIL-oriented service management tools like **iTop**.
-*   **🧬 Algorithmic Problem Solving & AI:** Designing state-space search algorithms (A*, IDA*), heuristic evaluation methods (such as Pagoda functions), and efficient data-processing routines in Python using custom data structures.
+* **🔒 Backend Security & Sanitation:** Heavy focus on defense-in-depth principles. Experienced in configuring **Helmet security headers**, implementing input sanitization pipelines via **Express-Validator**, and eliminating SQL Injection vectors through **Sequelize query parameterization** and JPA mappings.
+* **📐 Architectural Patterns:** Designing clean RESTful APIs with decoupled controllers, routes, and service layers (MVC, Service-Repository pattern), modernizing legacy monolithic structures into modular Single Page Application (SPA) backends.
+* **🛡️ QA & Quality Gates (CI/CD):** Enforcing strict static code analysis via **SonarQube** (achieving **0 bugs, 0 vulnerabilities, 0 code smells** and **95%+ test coverage**), automated linter integrations, and GitFlow-based branch validation workflows.
+* **📊 SLA & ITSM Management:** Experience defining commercial SLAs, setting incident response/fulfillment matrices (TTO/TTR targets), calculating service credits, and managing ticket lifecycles using ITIL-oriented service management tools like **iTop**.
+* **🧬 Algorithmic Problem Solving & AI:** Designing state-space search algorithms (A*, IDA*), heuristic evaluation methods (such as Pagoda functions), and efficient data-processing routines in Python using custom data structures.
 
 ---
 
@@ -37,15 +37,15 @@ I am a software developer with a strong analytical mindset, specializing in buil
 
 ### 🏥 [PetClinic SaaS Platform Modernization](https://github.com/SantiiDG/petclinic-showcase)
 Modernized veterinary SaaS application built with **React**, **Spring Boot**, and **PostgreSQL**, deployed to **Google App Engine**.
-*   **My Contributions:** Authored React SPA views, implemented role-based authorization filters with **Spring Security & JWT tokens**, integrated external APIs, and structured ITIL-compliant Incident Management & adoptable SLA ticketing in **iTop**.
-*   **Quality Metrics:** Validated with SonarQube achieving **0 bugs / 0 security vulnerabilities** and **95.8% backend coverage**.
-*   **Links:** 🔗 [Interactive Demo Live](https://SantiiDG.github.io/petclinic-showcase/) | 📂 [Showcase Repository](https://github.com/SantiiDG/petclinic-showcase)
+* **My Contributions:** Authored React SPA views, implemented role-based authorization filters with **Spring Security & JWT tokens**, integrated external APIs, and structured ITIL-compliant Incident Management & adoptable SLA ticketing in **iTop**.
+* **Quality Metrics:** Validated with SonarQube achieving **0 bugs / 0 security vulnerabilities** and **95.8% backend coverage**.
+* **Links:** 🔗 [Interactive Frontend Mockup](https://SantiiDG.github.io/petclinic-showcase/) | 📂 [Showcase Repository](https://github.com/SantiiDG/petclinic-showcase)
 
 ### 🍕 [DeliverUS RESTful Backend API](https://github.com/SantiiDG/deliverus-showcase)
 Secure, multi-tenant backend server for order management built with **Node.js**, **Express**, and **Sequelize ORM** mapping **MariaDB**.
-*   **My Contributions:** Created the secure order lifecycle controller, configured relational model mappings, integrated data validation/sanitation filters, and managed multi-container network environments using **Docker Compose**.
-*   **Quality Metrics:** Secured against SQL injections via parameter-binding ORM queries and XSS/hijacking via Helmet headers.
-*   **Links:** 🔗 [Interactive Demo Live](https://SantiiDG.github.io/deliverus-showcase/) | 📂 [Showcase Repository](https://github.com/SantiiDG/deliverus-showcase)
+* **My Contributions:** Created the secure order lifecycle controller, configured relational model mappings, integrated data validation/sanitation filters, and managed multi-container network environments using **Docker Compose**.
+* **Quality Metrics:** Secured against SQL injections via parameter-binding ORM queries and XSS/hijacking via Helmet headers.
+* **Links:** 🔗 [Static UI Showcase / API Docs](https://SantiiDG.github.io/deliverus-showcase/) | 📂 [Showcase Repository](https://github.com/SantiiDG/deliverus-showcase)
 
 ---
 
